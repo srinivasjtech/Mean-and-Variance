@@ -49,6 +49,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```py
+NAME : SRINIVAS J
+REG NO : 212225230276
+SLOT NO : T1-I5
+
+
 import numpy as np
 
 # Input: Enter the number of arrivals separated by space
